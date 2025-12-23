@@ -1,1 +1,1 @@
-Made with tailwind,vite,typescript,shadcn, framer motion
+Made with tailwind,vite,typescript,shadcn
