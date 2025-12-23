@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <main className="relative flex justify-center items-center w-full h-screen bg-purple-100">
-        <div className="absolute top-0 md:bg-[url('public/assets/images/background-pattern-desktop.svg')] bg-[url('public/assets/images/background-pattern-mobile.svg')] bg-cover h-[40%] w-full"></div>
+        <div className="absolute top-0 md:bg-[url('/assets/images/background-pattern-desktop.svg')] bg-[url('/assets/images/background-pattern-mobile.svg')] bg-cover h-[40%] w-full"></div>
         <div className="flex flex-col max-w-[600px] w-full mx-4 bg-white p-4 rounded-[16px] relative z-10">
           <div className="flex items-baseline">
             <img src="/assets/images/icon-star.svg" className="mr-4" />
